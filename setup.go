@@ -16,6 +16,7 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
+	"golang.org/x/crypto/ssh/terminal"
 	"log"
 	"math/big"
 	"os"
